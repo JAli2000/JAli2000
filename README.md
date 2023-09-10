@@ -11,7 +11,7 @@
 <body>
     <div class="hero"></div>
     <div class="details">
-        <p style='color:#180979;'>My goal is to join the community of programmers. 
+        <p style="color:#180979;">My goal is to join the community of programmers. 
             This is a strong motivation that motivates me to learn and 
             improve in this field</p>
     </div>
