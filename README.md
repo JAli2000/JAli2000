@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!DOCTYPE html>
 <html>
@@ -16,6 +15,7 @@
             This is a strong motivation that motivates me to learn and 
             improve in this field</p>
     </div>
+    
 </body>
 </html>
 
