@@ -5,15 +5,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>github profile</title>
     <link rel="stylesheet" href="./style.css" >
+
 </head>
 
 <body>
     <div class="hero"></div>
     <div class="details">
-        <h1>hello</h1>
-        <p>My goal is to join the community of programmers. 
+        <p style='color:#180979;'>My goal is to join the community of programmers. 
             This is a strong motivation that motivates me to learn and 
             improve in this field</p>
     </div>
