@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <div class="hero"></div>
+    <div class="hero" style="width:100px; height:80vh;">jali2000</div>
     <div class="details">
         <p style="color:#180979;">My goal is to join the community of programmers. 
             This is a strong motivation that motivates me to learn and 
